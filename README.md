@@ -12,7 +12,7 @@ wait several minutes
 
 you should see a line like 
 
-> Zeppelin UI is at http://wrangler.tacc.utexas.edu:54043
+> Zeppelin UI is at http://wrangler.tacc.utexas.edu:xxxxx
  
 open the URL in a browser.  Safari should work. If you are using  chrome/firefox, you may have to open it in a  incognito window
 
@@ -24,4 +24,4 @@ You can import the analysis note from URL directly with follwing:
 
 
 After you are finished with Zepplein, you can go back to your login terminal and cancel the job with following command
-> scancel -u <username>
+> scancel -u username
